@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+caption {
+    font-size: 24px;
+}
+
+th {
+    background-color: navy;
+    color: white;
+}
+#menu{ background-color: aqua;
+    font-size: large;
+    align-items: center;
+    margin-left: 590px;
+    font-family: 'Courier New', Courier;
+    font-weight: 200px;
+    
+
+}
+h1{
+text-align: center;
+}
